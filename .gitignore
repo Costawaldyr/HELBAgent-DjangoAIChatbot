@@ -5,3 +5,7 @@ db.sqlite3
 # Environnement
 .env
 .env.*
+__pycache__/
+*.pyc
+.venv/
+venv/
